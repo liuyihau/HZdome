@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'HZDome'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HZDome.'
+  s.summary          = '简单的三方库测试dome'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+简单的三方库测试dome 简单的三方库测试dome 简单的三方库测试dome
                        DESC
 
-  s.homepage         = 'https://github.com/liuyihua2015@sina.com/HZDome'
+  s.homepage         = 'https://github.com/liuyihau/HZdome'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liuyihua2015@sina.com' => '18551614289@139.com' }
-  s.source           = { :git => 'https://github.com/liuyihua2015@sina.com/HZDome.git', :tag => s.version.to_s }
+  s.author           = { 'liuyihua2015' => '18551614289@139.com' }
+  s.source           = { :git => 'https://github.com/liuyihau/HZdome.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
